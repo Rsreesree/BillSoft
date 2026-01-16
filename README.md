@@ -513,4 +513,4 @@ For issues or questions:
 
 ---
 
-**Created with ❤️ for retail business efficiency**
+**Created for retail business efficiency**
