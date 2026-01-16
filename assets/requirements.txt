@@ -1,0 +1,10 @@
+# PDF generation
+reportlab==4.1.0
+
+# Date picker for Tkinter
+tkcalendar==1.6.1
+
+# Windows printing support
+pywin32==305
+
+
