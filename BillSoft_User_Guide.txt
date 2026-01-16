@@ -1,0 +1,250 @@
+Bill Soft – Complete User Guide
+
+
+
+1. Introduction
+
+Welcome to Bill Soft, your simple billing software for managing a clothing shop.
+With this software, you can:
+
+Sell items and print receipts.
+
+Keep track of your stock (inventory).
+
+View daily sales reports.
+
+Choose your printer and printing method.
+
+You don’t need to know anything about computers to use this software.
+
+
+
+
+2. Starting the App
+
+Double-click the "BillSoft" app icon.
+
+You will see a loading screen with “Bill Soft” and a progress bar.
+
+Wait until it reaches 100%.
+
+
+After loading, the login window appears.
+
+
+Enter your username and password.
+
+If you don’t have an account, click Sign Up to create one.
+
+
+
+3. Navigating the App
+
+At the top, you will see the navigation bar with buttons:
+
+Shopping → Go to the sales page to sell items.
+
+Inventory → Manage stock (add, update, or delete items).
+
+Daily Sales Report → Check sales for any day.
+
+Settings Icon ⚙️→ Change printer settings.
+
+Cube icon 📦→ Data Backup 
+
+? → Help 
+
+The main area will show the page you select.
+
+
+
+4. Selling Items (Shopping Page)
+
+
+A. Selling with Barcode or Item Name
+
+
+Type the item name or scan the barcode in the “Enter Item” box.
+
+Press Enter or click Add to Cart.
+
+A popup will appear asking for:
+
+Quantity → How many items the customer wants.
+
+Price → Confirm the price (it shows the default price from inventory).
+
+Click Add to Cart.
+
+The item will appear in the Cart Items list.
+
+
+
+B. Fast Billing (No Stock Item)
+
+
+Use the Fast Billing box.
+
+Type the item name (or something temporary if it’s not in inventory).
+
+Please manually type the item name in fast billing . Do not use barcode scanner(if you use barcode scanner , barcode will appear on the receipts and reports)
+
+A popup will appear asking for Quantity and Price.
+
+Click Add to Cart.
+
+This is for quick sales where the item isn’t in your main inventory.
+
+
+
+C. Removing Items from Cart
+
+
+Select an item in the Cart Items list.
+
+Click Remove Selected Item if the customer changes their mind.
+
+
+
+D. Checkout & Printing Receipt
+
+
+Click CHECKOUT when ready to sell.
+
+The receipt will appear.
+
+You will be asked if you want to print the receipt.
+
+If yes, the receipt will print via your chosen printer method:
+
+
+Browser Printing → Opens a print window.
+
+Thermal Printer → Prints directly and cuts the paper.
+
+Windows Printer → Prints using any installed printer.
+
+
+
+The stock will automatically reduce, and the sale will be saved in the database.
+
+
+5. Managing Inventory
+
+Go to the Inventory Page.
+
+
+A. Add Item
+
+Click Add Item.
+
+Fill in:
+
+	Item Name
+
+	Price
+
+	Stock Quantity
+
+	Barcode
+
+Click Add Item.
+
+
+B. Update Item
+
+Click Update Item.
+
+Type the item name or scan the barcode in the search box.
+
+Update Price, Stock (increase or decrease), or Item Name.
+
+Click Save Changes.
+
+
+C. Delete Item
+
+Click on Delete item button
+
+Type the item name or scan the barcode in the search box.
+
+Click Delete Item to remove it permanently.
+
+
+
+6. Daily Sales Report
+
+Click Daily Sales Report on the navigation bar.
+
+Select the date.
+
+Click Generate Report → Sales for that day will appear.
+
+Options:
+
+Save as PDF → Save the report to your computer.
+
+Print Report → Send to the printer.
+
+
+
+7. Printer Settings ⚙️
+
+Click the Settings Icon (gear ⚙️).
+
+
+Select Printing Method:
+
+Thermal Printer → For direct receipts.
+
+	Select the printer
+	Select the paper width and character length according to your printer
+ 
+Windows Printer → Use installed printers.
+
+	Select the printer
+
+Browser → Opens system print window.
+
+
+
+Click Save & Apply.
+
+
+8.Reprint Last Receipt
+
+If printing is not done. You want to print the last receipt,
+
+Click Reprint receipt button.
+
+The last receipt will appear .
+
+Click on print button to print the receipt.
+
+
+9.Data Backup 📦
+
+Click on the cube icon 📦 on the top right corner.
+
+Click the backup database button to save your data.
+
+if your data is lost , Click on Restore database button . Select the backup database from where you saved it in your computer.
+
+The app will Restart and your data is now backed up.(You must backup your database daily. So that you can restore your data)
+
+ 
+Tips & Notes
+
+Always check stock before selling.
+
+Fast Billing should be used only for temporary items.(Do not use barcode scanner)
+
+Receipts include item name, quantity, price, and total.
+
+Daily Sales Report helps track earnings.
+
+Select the printing method before starting sale.
+
+Please take a daily backup.
+
+
